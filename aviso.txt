@@ -1,0 +1,7 @@
+Ao contrário do que apareçe no curso de git, no meu computador o "git log --graph" não mostra a branch nova sendo criada e depois mesclada com a master. 
+Na verdade o "git log" mostra o histórico e o gráfico parecidos com o que aconteceria num rebase.
+não sei se é característica da versão que tenho instalada (2.2.0).
+
+Então, caso o avaliador se encontre na mesma situação, fica advertido sobre a criação de uma branch separada e mesclagem com a master, 
+mesmo que não seja possível essa identificação.
+
