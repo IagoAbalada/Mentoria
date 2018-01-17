@@ -1,4 +1,4 @@
-Ao contrário do que apareçe no curso de git, no meu computador o "git log --graph" não mostra a branch nova sendo criada e depois mesclada com a master. 
+Ao contrário do que é mostrado no curso de Git e Github da Udemy, no meu computador o "git log --graph" não mostra a branch nova sendo criada e depois mesclada com a master. 
 Na verdade o "git log" mostra o histórico e o gráfico parecidos com o que aconteceria num rebase.
 não sei se é característica da versão que tenho instalada (2.2.0).
 
